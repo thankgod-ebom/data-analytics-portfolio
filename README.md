@@ -1,6 +1,5 @@
 # Data Analytics Portfolio
-
-Hi, I'm **Ebom ThankGod**, an aspiring Data Analyst passionate about using data to solve business problems through data analysis and visualization.
+Hi, I'm Ebom ThankGod, an aspiring Data Analyst passionate about turning data into actionable insights that help businesses make better decisions..
 
 ## Skills
 - Microsoft Excel
